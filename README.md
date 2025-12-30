@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on RFIDAuthX – a FastAPI + RFID-based authentication system<br>👯 I’m looking to collaborate with like-minded developers and tech enthusiasts<br>🤝 I’m looking for help with scaling backend systems, API security, and IoT integrations<br>🌱 I’m currently learning DevOps (Docker, CI/CD) and system design concepts<br>💬 Ask me about FastAPI, IoT projects, backend development, and database design<br>⚡ Fun fact: My code sometimes works on the first try… those are my happiest mood swings!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.adithya2026@gmail.com) 
 
